@@ -18,4 +18,12 @@ body,
     display: flex;
     flex-direction: column;
     font-size: .32rem;
+    .header {
+        height: .8rem;
+        font-size: .4rem;
+        color: #fff;
+        background: orange;
+        text-align: center;
+        line-height: .8rem;
+    }
 }
